@@ -21,7 +21,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-          Powered by Vincent Codier
+          Powered by Vincent Cordier
       </footer>
     </div>
   )
